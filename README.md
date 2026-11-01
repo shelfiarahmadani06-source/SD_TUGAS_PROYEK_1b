@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # SD_TUGAS_PROYEK_1B
 ## Aplikasi Silsilah Organisasi - General Tree
@@ -54,3 +55,6 @@ Inorder pada General Tree menggunakan konvensi
 anak pertama, node, kemudian anak berikutnya.
 General Tree tidak mempunyai definisi inorder
 baku seperti Binary Tree.
+=======
+# SD_TUGAS_PROYEK_1b
+>>>>>>> 9d044806af7f55f98e0197b624b05c18d4617c16
